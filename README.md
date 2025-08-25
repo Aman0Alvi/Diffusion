@@ -1,5 +1,6 @@
 <img width="1031" height="255" alt="image" src="https://github.com/user-attachments/assets/d7e57d60-fab3-4c5e-9383-d01d9c1014f4" />
 
+<img width="489" height="288" alt="image" src="https://github.com/user-attachments/assets/6768a2ce-8512-4cd7-b33a-0dc1145d2ab2" />
 
 You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/Well-That's-Just-Prime). Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
 
